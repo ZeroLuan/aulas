@@ -2,4 +2,4 @@
 
 ## caso fazer
 
-* gora é real
+* Fazendo o push
